@@ -75,13 +75,31 @@ We used visualizations to better understand the relationships between variables 
 
 ---
 
+## 📓 Model Summary
 
+A range of models were tested, including Linear Regression, Decision Trees, Random Forests, with extensive hyperparameter tuning. The final model was selected based on Root Mean Squared Error (RMSE) and its ability to generalize across store types.
 
+---
 
+## 📈 Evaluation Metrics
 
+- Best Model: Random Forest model (tuned)
 
+------------------------------------------------------------
+Regression Metrics: Training Data
+------------------------------------------------------------
+- MAE = 653.621
+- MSE = 868,731.344
+- RMSE = 932.058
+- R^2 = 0.706
 
-
+------------------------------------------------------------
+Regression Metrics: Test Data
+------------------------------------------------------------
+- MAE = 734.518
+- MSE = 1,118,752.629
+- RMSE = 1,057.711
+- R^2 = 0.595
 
 
 
