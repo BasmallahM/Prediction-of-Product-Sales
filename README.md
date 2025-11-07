@@ -6,7 +6,7 @@
 
 This project focuses on predicting sales for a retail chain using historical data on products and outlet characteristics. The goal is to identify key factors that influence `Item_Outlet_Sales` to assist the business in inventory planning, pricing, and store strategy.
 
-We perform **exploratory data analysis (EDA)**, **data cleaning**, and prepare the dataset for machine learning models to help optimize sales across different products and store types.
+performed **exploratory data analysis (EDA)**, **data cleaning**, and prepared the dataset for machine learning models to help optimize sales across different products and store types.
 
 ## 🗂️ Dataset Description
 
